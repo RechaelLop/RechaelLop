@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Rechael, I am a Cloud Developer intrseted in developing innovative Cloud Solutions!
+My name is Rechael, I am a Cloud Developer interested in developing innovative Cloud Solutions!
 
 - 🔭 I’m currently working on TaskWise, a To-Do AI Agent.
 

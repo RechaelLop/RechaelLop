@@ -77,48 +77,48 @@
 
 ### 🚀 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
 
-  <!-- Card 1 -->
-  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #DDD; border-radius: 8px; padding: 16px;">
-    <h4><a href="https://github.com/RechaelLop/Cloud-Migration">Cloud Migration</a></h4>
-    <p>Strategized enterprise cloud migration, documented risk and optimization.</p>
-    <p><strong>Tech:</strong> AWS · EC2 · S3 · IAM · PowerShell</p>
+  <!-- Cloud Migration -->
+  <div style="flex: 1 1 320px; border: 1px solid #ccc; border-radius: 10px; padding: 16px; max-width: 320px;">
+    <h3><a href="https://github.com/RechaelLop/Cloud-Migration">🌩️ Cloud Migration</a></h3>
+    <p>Strategized enterprise cloud migration including AWS, IAM, and M365.</p>
+    <p><strong>Tech:</strong> AWS · EC2 · S3 · IAM · PowerShell · SharePoint</p>
   </div>
 
-  <!-- Card 2 -->
-  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #DDD; border-radius: 8px; padding: 16px;">
-    <h4><a href="https://github.com/RechaelLop/PlantUnify">PlantUnify – AWS Data Lake Dashboard</a></h4>
-    <p>Full ETL pipeline and BI dashboard using mock retail data.</p>
-    <p><strong>Tech:</strong> AWS S3 · Glue · Athena · Lambda · Power BI</p>
+  <!-- PlantUnify -->
+  <div style="flex: 1 1 320px; border: 1px solid #ccc; border-radius: 10px; padding: 16px; max-width: 320px;">
+    <h3><a href="https://github.com/RechaelLop/PlantUnify">📊 PlantUnify – Data Lake Dashboard</a></h3>
+    <p>Retail analytics pipeline using AWS Glue, Athena & Power BI.</p>
+    <p><strong>Tech:</strong> AWS S3 · Glue · Athena · Power BI · Lambda · PySpark</p>
   </div>
 
-  <!-- Card 3 -->
-  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #DDD; border-radius: 8px; padding: 16px;">
-    <h4><a href="https://github.com/RechaelLop/cloud-monitoring-app">Cloud Monitoring App</a></h4>
-    <p>Dockerized Flask resource tracker deployed to AWS EKS with CI/CD.</p>
-    <p><strong>Tech:</strong> Flask · Docker · EKS · GitHub Actions · CloudWatch</p>
+  <!-- Cloud Monitoring App -->
+  <div style="flex: 1 1 320px; border: 1px solid #ccc; border-radius: 10px; padding: 16px; max-width: 320px;">
+    <h3><a href="https://github.com/RechaelLop/cloud-monitoring-app">📡 Cloud Monitoring App</a></h3>
+    <p>Flask app on EKS with CI/CD and CloudWatch metrics tracking.</p>
+    <p><strong>Tech:</strong> Flask · Docker · EKS · CloudWatch · GitHub Actions · boto3</p>
   </div>
 
-  <!-- Card 4 -->
-  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #DDD; border-radius: 8px; padding: 16px;">
-    <h4><a href="https://github.com/RechaelLop/stock-prediction">Stock Prediction App</a></h4>
-    <p>ML app forecasting stock trends with technical indicators & interactive UI.</p>
-    <p><strong>Tech:</strong> Python · scikit-learn · Streamlit · yfinance</p>
+  <!-- Stock Prediction App -->
+  <div style="flex: 1 1 320px; border: 1px solid #ccc; border-radius: 10px; padding: 16px; max-width: 320px;">
+    <h3><a href="https://github.com/RechaelLop/stock-prediction">📈 Stock Prediction App</a></h3>
+    <p>ML-powered tool to forecast stock trends using technical indicators & Streamlit.</p>
+    <p><strong>Tech:</strong> Python · scikit-learn · yfinance · Streamlit · Matplotlib</p>
   </div>
 
-  <!-- Card 5 -->
-  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #DDD; border-radius: 8px; padding: 16px;">
-    <h4><a href="https://github.com/RechaelLop/LunaSage">LunaSage – Lunar Farming Assistant</a></h4>
-    <p>AI app predicting crop‑friendly dates based on moon phases (hackathon project).</p>
-    <p><strong>Tech:</strong> FastAPI · React.js · TailwindCSS · PostgreSQL · AWS</p>
+  <!-- LunaSage -->
+  <div style="flex: 1 1 320px; border: 1px solid #ccc; border-radius: 10px; padding: 16px; max-width: 320px;">
+    <h3><a href="https://github.com/RechaelLop/LunaSage">🌿 LunaSage – Lunar Farming Assistant</a></h3>
+    <p>AI-based prediction of crop-friendly dates based on lunar data (hackathon project).</p>
+    <p><strong>Tech:</strong> FastAPI · React.js · PostgreSQL · Skyfield · TailwindCSS · AWS</p>
   </div>
 
-  <!-- Card 6 -->
-  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #DDD; border-radius: 8px; padding: 16px;">
-    <h4><a href="#">Security Audit Automation (Coming Soon)</a></h4>
-    <p>Automated DevSecOps pipeline for scanning AWS misconfigurations & reporting.</p>
-    <p><strong>Tech:</strong> Python · AWS Config · Lambda · SNS · Slack API</p>
+  <!-- Security Audit Automation -->
+  <div style="flex: 1 1 320px; border: 1px solid #ccc; border-radius: 10px; padding: 16px; max-width: 320px;">
+    <h3><a href="#">🔐 Security Audit Automation <i>(Coming Soon)</i></a></h3>
+    <p>Automated DevSecOps pipeline scanning AWS misconfigurations and alerting via Slack.</p>
+    <p><strong>Tech:</strong> Python · AWS Config · Lambda · SNS · EventBridge · Slack API</p>
   </div>
 
 </div>

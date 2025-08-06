@@ -77,61 +77,51 @@
 
 ### 🚀 Featured Projects
 
-Here are some of the projects that showcase my cloud, data, and automation expertise:
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
----
+  <!-- Card 1 -->
+  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #DDD; border-radius: 8px; padding: 16px;">
+    <h4><a href="https://github.com/RechaelLop/Cloud-Migration">Cloud Migration</a></h4>
+    <p>Strategized enterprise cloud migration, documented risk and optimization.</p>
+    <p><strong>Tech:</strong> AWS · EC2 · S3 · IAM · PowerShell</p>
+  </div>
 
-🔭 **[Cloud Migration](https://github.com/RechaelLop/Cloud-Migration)**  
-*Designed and documented a step-by-step cloud migration plan for enterprise workloads.*
+  <!-- Card 2 -->
+  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #DDD; border-radius: 8px; padding: 16px;">
+    <h4><a href="https://github.com/RechaelLop/PlantUnify">PlantUnify – AWS Data Lake Dashboard</a></h4>
+    <p>Full ETL pipeline and BI dashboard using mock retail data.</p>
+    <p><strong>Tech:</strong> AWS S3 · Glue · Athena · Lambda · Power BI</p>
+  </div>
 
-- 📦 Migrated legacy systems to AWS using EC2, S3, and IAM best practices
-- 🧠 Documented challenges, risk mitigations, and performance optimization strategies
-- 🛠️ **Tech Stack:** AWS, EC2, IAM, S3, M365, PowerShell, SharePoint
+  <!-- Card 3 -->
+  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #DDD; border-radius: 8px; padding: 16px;">
+    <h4><a href="https://github.com/RechaelLop/cloud-monitoring-app">Cloud Monitoring App</a></h4>
+    <p>Dockerized Flask resource tracker deployed to AWS EKS with CI/CD.</p>
+    <p><strong>Tech:</strong> Flask · Docker · EKS · GitHub Actions · CloudWatch</p>
+  </div>
 
----
+  <!-- Card 4 -->
+  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #DDD; border-radius: 8px; padding: 16px;">
+    <h4><a href="https://github.com/RechaelLop/stock-prediction">Stock Prediction App</a></h4>
+    <p>ML app forecasting stock trends with technical indicators & interactive UI.</p>
+    <p><strong>Tech:</strong> Python · scikit-learn · Streamlit · yfinance</p>
+  </div>
 
-📊 **[PlantUnify – AWS Data Lake Dashboard](https://github.com/RechaelLop/PlantUnify)**  
-*A complete cloud data pipeline and business intelligence dashboard for mock retail data.*
+  <!-- Card 5 -->
+  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #DDD; border-radius: 8px; padding: 16px;">
+    <h4><a href="https://github.com/RechaelLop/LunaSage">LunaSage – Lunar Farming Assistant</a></h4>
+    <p>AI app predicting crop‑friendly dates based on moon phases (hackathon project).</p>
+    <p><strong>Tech:</strong> FastAPI · React.js · TailwindCSS · PostgreSQL · AWS</p>
+  </div>
 
-- 🔄 ETL pipeline using **AWS Glue** and **Athena**
-- 📈 Interactive Power BI dashboard showing sales, inventory, and region metrics
-- 🛠️ **Tech Stack:** AWS S3, Glue, Athena, Lambda, Power BI, PySpark, Python
+  <!-- Card 6 -->
+  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #DDD; border-radius: 8px; padding: 16px;">
+    <h4><a href="#">Security Audit Automation (Coming Soon)</a></h4>
+    <p>Automated DevSecOps pipeline for scanning AWS misconfigurations & reporting.</p>
+    <p><strong>Tech:</strong> Python · AWS Config · Lambda · SNS · Slack API</p>
+  </div>
 
----
-
-📡 **[Cloud Monitoring App](https://github.com/RechaelLop/cloud-monitoring-app)**  
-*Lightweight system resource tracker deployed on Kubernetes cluster with CI/CD pipeline.*
-
-- 🐳 Dockerized Flask app monitoring CPU/memory via `psutil`
-- 🔔 Integrated with **CloudWatch** and GitHub Actions for automation
-- 🛠️ **Tech Stack:** Flask, Docker, AWS EKS, boto3, CloudWatch, GitHub Actions, Helm
-
----
-
-📈 **[Stock Prediction App](https://github.com/RechaelLop/stock-prediction)**  
-*A machine learning-based app that forecasts stock price trends using historical data and indicators.*
-
-- 🧠 Uses technical indicators (e.g., Moving Average, RSI) and ML models to predict stock trends
-- 📊 Interactive UI for users to input a stock ticker and visualize historical vs. predicted prices
-- 🛠️ **Tech Stack:** Python, scikit-learn, yfinance, Streamlit, Matplotlib, Pandas
-
----
-
-🧠 **[Security Audit Automation](#)** *(Coming Soon)*  
-*DevSecOps workflow to scan, audit, and report misconfigurations across AWS accounts.*
-
-- 📊 Real-time report generation for policy violations
-- 🔐 IAM & S3 security scan with automated Slack notifications
-- 🛠️ **Tech Stack:** Python, AWS Config, Lambda, EventBridge, SNS, Slack API
-
----
-
-🌿 **[LunaSage – Lunar Farming Assistant](https://github.com/RechaelLop/LunaSage)**  
-*Hackathon-winning app using astronomy and AI to predict crop-friendly dates based on moon phases.*
-
-- 🌕 Moon phase API + NLP for cultural & agricultural recommendations
-- 📅 Dual calendar for stargazers and farmers with full-stack integration
-- 🛠️ **Tech Stack:** FastAPI, Flask, React.js, TailwindCSS, Skyfield, PostgreSQL, AWS
+</div>
 
 ---
 

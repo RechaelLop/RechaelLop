@@ -51,11 +51,63 @@
 
 ---
 
-### 🔍 Featured Projects
+### 🚀 Featured Projects
 
-- 🔭 [Cloud Migration](https://github.com/RechaelLop/Cloud-Migration) – Automated and documented client-side cloud adoption
-- 📊 [AWS Data Lake Dashboard](https://github.com/RechaelLop/PlantUnify) – Data lake & Power BI dashboard using Glue & Athena
-- ⚙️ Security Audit Automation *(coming soon)* 
+Here are some of the projects that showcase my cloud, data, and automation expertise:
+
+---
+
+🔭 **[Cloud Migration](https://github.com/RechaelLop/Cloud-Migration)**  
+*Designed and documented a step-by-step cloud migration plan for enterprise workloads.*
+
+- 📦 Migrated legacy systems to AWS using EC2, S3, and IAM best practices
+- 🧠 Documented challenges, risk mitigations, and performance optimization strategies
+- 🛠️ **Tech Stack:** AWS, EC2, IAM, S3, M365, PowerShell, SharePoint
+
+---
+
+📊 **[PlantUnify – AWS Data Lake Dashboard](https://github.com/RechaelLop/PlantUnify)**  
+*A complete cloud data pipeline and business intelligence dashboard for mock retail data.*
+
+- 🔄 ETL pipeline using **AWS Glue** and **Athena**
+- 📈 Interactive Power BI dashboard showing sales, inventory, and region metrics
+- 🛠️ **Tech Stack:** AWS S3, Glue, Athena, Lambda, Power BI, PySpark, Python
+
+---
+
+📡 **[Cloud Monitoring App](https://github.com/RechaelLop/cloud-monitoring-app)**  
+*Lightweight system resource tracker deployed on Kubernetes cluster with CI/CD pipeline.*
+
+- 🐳 Dockerized Flask app monitoring CPU/memory via `psutil`
+- 🔔 Integrated with **CloudWatch** and GitHub Actions for automation
+- 🛠️ **Tech Stack:** Flask, Docker, AWS EKS, boto3, CloudWatch, GitHub Actions, Helm
+
+---
+
+📈 **[Stock Prediction App](https://github.com/RechaelLop/stock-prediction)**  
+*A machine learning-based app that forecasts stock price trends using historical data and indicators.*
+
+- 🧠 Uses technical indicators (e.g., Moving Average, RSI) and ML models to predict stock trends
+- 📊 Interactive UI for users to input a stock ticker and visualize historical vs. predicted prices
+- 🛠️ **Tech Stack:** Python, scikit-learn, yfinance, Streamlit, Matplotlib, Pandas
+
+---
+
+🧠 **[Security Audit Automation](#)** *(Coming Soon)*  
+*DevSecOps workflow to scan, audit, and report misconfigurations across AWS accounts.*
+
+- 📊 Real-time report generation for policy violations
+- 🔐 IAM & S3 security scan with automated Slack notifications
+- 🛠️ **Tech Stack:** Python, AWS Config, Lambda, EventBridge, SNS, Slack API
+
+---
+
+🌿 **[LunaSage – Lunar Farming Assistant](https://github.com/RechaelLop/LunaSage)**  
+*Hackathon-winning app using astronomy and AI to predict crop-friendly dates based on moon phases.*
+
+- 🌕 Moon phase API + NLP for cultural & agricultural recommendations
+- 📅 Dual calendar for stargazers and farmers with full-stack integration
+- 🛠️ **Tech Stack:** FastAPI, Flask, React.js, TailwindCSS, Skyfield, PostgreSQL, AWS
 
 ---
 

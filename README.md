@@ -15,14 +15,23 @@
 
 🔧 **Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws) 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
+
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker) 
-![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=powerbi) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-green?style=flat-square&logo=fastapi)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions)
+
 
 ---
 

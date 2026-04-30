@@ -20,9 +20,9 @@
 ### 🌟 About Me
 
 🎓 Postgraduate in **Cloud Data Management** from Conestoga College  
-💻 Strong background in **Cloud Platforms, DevOps**, and **Data Analytics**  
-📊 Former Data Analyst at a cooperative bank working with SQL, Power BI & Python  
-🛠️ Builder of cloud-native apps & dashboards using AWS, Azure, Docker & FastAPI  
+💻 Strong background in **Cloud Platforms, DevOps**, and **Full Stack Development**  
+📊 Web Developer and Opreations Analyst at iHelp International  
+🛠️ Builder of cloud-native application, ML Application, AI Agents, and many more  
 🚀 Passionate about automating workflows, visualizing insights & scaling apps  
 
 ---

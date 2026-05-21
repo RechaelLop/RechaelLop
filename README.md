@@ -1,7 +1,7 @@
 <!-- GitHub Profile README - Rechael Lopes -->
 
 <h1 align="center">🚀 Rechael Lopes</h1>
-<h3 align="center">Cloud & Data Analyst | AWS • Azure • Python • DevOps • M365</h3>
+<h3 align="center">Software Engineer | AI & Cloud Applications | AWS • Azure • Python • DevOps • M365</h3>
 
 <p align="center">
   <a href="mailto:lopes.rechael1307@gmail.com">
@@ -21,7 +21,7 @@
 
 🎓 Postgraduate in **Cloud Data Management** from Conestoga College  
 💻 Strong background in **Cloud Platforms, DevOps**, and **Full Stack Development**  
-📊 Web Developer and Opreations Analyst at iHelp International  
+📊 Web & Cloud Applications Developer at iHelp International  
 🛠️ Builder of cloud-native application, ML Application, AI Agents, and many more  
 🚀 Passionate about automating workflows, visualizing insights & scaling apps  
 
